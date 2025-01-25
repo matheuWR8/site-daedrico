@@ -1,6 +1,6 @@
-# oblivion_WebDevTest
-Projeto HTML de teste
-Projeto para treinar desenvolvimento Web (HTML, CSS e JavaScipt) 
-O projeto foi construído seguindo as intruções do guia da Mozilla: 
-https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web
-Esta foi minha primeira criação mais complexa em HTML
+# Projeto Recanto Daédrico
+## Descrição
+Projeto de desenvolvimento _web_ **experimental**, com o propósito de testar e aprender as funcionalidades do HTML, CSS e JavaScript, sendo minha primeira criação desse tipo.
+Tematizado na série de jogos _The Elder Scrolls_.
+
+O projeto foi construído seguindo as intruções do [guia da Mozilla](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web). 
