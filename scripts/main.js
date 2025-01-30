@@ -8,7 +8,7 @@ imagem.onclick = () => {
 	const localImg = imagem.getAttribute("src"); /*seleciona o atributo src da imagem como uma variável*/
 	//se o local da imagem for o da original, src será substituído pelo local da alternativa; e viceversa
 	if (localImg === "imagens/soulcairn.jpg") {
-	imagem.setAttribute("src", "imagens/soulcairngirado.jpg");
+	imagem.setAttribute("src", "imagens/deadlands.jpg");
 	} else {
 		imagem.setAttribute("src", "imagens/soulcairn.jpg");
 	}
